@@ -2,8 +2,6 @@
 
 ## SISTEM OPERASI
 
-![image](media/image1.png){width="2.92001312335958in" height="3.048494094488189in"}
-
 Nama : Oktavia Ramadhani  
 NRP : 3124500038  
 Kelas : D3 IT-B  
@@ -641,4 +639,3 @@ Nyatakan Keluaran pada Keyboard tersebut
 
 Keluaran pada keyboard ASCII adalah:  
 **50 52 49 4E 54 20 58**
-# SisOp-2025
