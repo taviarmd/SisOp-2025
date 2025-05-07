@@ -3,7 +3,9 @@ Kelas: 1 D3 IT B
 Nama Kelompok:
 
 Dinda Diyah Arifa (3124500034)
+
 Oktavia Ramadhani (3124500038)
+
 Yosiyanti Cendekiasari (3124500059)
 
 **FCFS Scheduling Algorithm**
